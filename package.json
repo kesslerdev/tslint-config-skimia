@@ -1,0 +1,18 @@
+{
+  "name": "tslint-config-skimia",
+  "version": "1.0.0",
+  "description": "A TSLint config for Skimia TypeScript Style",
+  "main": "tslint.json",
+  "scripts": {},
+  "keywords": [
+    "skimia",
+    "tslint",
+    "typescript"
+  ],
+  "author": "Skimia",
+  "license": "MIT",
+  "dependencies": {
+    "tslint-config-airbnb": "^5.0.1"
+  },
+  "devDependencies": {}
+}
